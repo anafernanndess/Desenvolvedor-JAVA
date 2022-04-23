@@ -1,9 +1,9 @@
 package LISTA1respondendo;
 
-public class q3 {
+public class Q3 {
     public static void main(String[] args) {
-        int numero = 8;
+        int numero1 = 8;
         int numero2 = 8;
-        System.out.println(numero + numero2);
+        System.out.println(numero1 + numero2);
     }
 }
