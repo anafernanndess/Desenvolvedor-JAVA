@@ -2,8 +2,10 @@ package Q1;
 import java.util.Scanner;
 import java.util.Locale;
 public class Q1 {
-    public class Array {
-        public void main(String[] args) {
+    public static class Array {
+        public static void main(String[] args) {
+
+
             Scanner leia = new Scanner(System.in);
             final var ponto = new Locale("en", "us");
             int [] numeros = new int[5];
